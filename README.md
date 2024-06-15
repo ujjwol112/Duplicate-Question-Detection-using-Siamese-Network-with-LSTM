@@ -1,4 +1,4 @@
-# nlp-question-duplicates
+# Duplicate-Question-Detection-using-Siamese-Network-with-LSTM
 
 explore Siamese networks applied to natural language processing
 
